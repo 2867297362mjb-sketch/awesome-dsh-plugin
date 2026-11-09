@@ -1,0 +1,6 @@
+url: https://github.com/2867297362mjb-sketch/dsh-teamorouter
+name: 2867297362mjb-sketch/dsh-teamorouter
+category: model
+description:
+  en: 'Adds a TeamoRouter route to llm-pi-ai (OpenAI-compatible, starter models from its bundle patch) and keeps its model list in step with TeamoRouter''s live /v1/models list (chat models only, re-synced every 6 hours), editing only providers.teamorouter in the profile settings; the key is read from the TEAMOROUTER_API_KEY credential reference.'
+  zh: '给 llm-pi-ai 加一条 TeamoRouter 路由（OpenAI 兼容，起步模型来自插件自带补丁），模型列表跟随 TeamoRouter 实时的 /v1/models（只收对话模型，每 6 小时同步），只改 profile 设置里的 providers.teamorouter；Key 通过 TEAMOROUTER_API_KEY 凭据引用读取。'
